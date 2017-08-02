@@ -20,8 +20,8 @@ Developing
 ----------
 
 ~~~
-$ npm install
-$ make serve
+$ yarn
+$ yarn serve
 ~~~
 
 This will bring up a development server. The server automatically
@@ -39,6 +39,6 @@ the files you need to use the app in a browser.
 Creating a content model
 ----------------------
 
-Create a new space, generate a new API key and follow the instructions in [Contentful space sync][installation-instructions] to copy the content types used in the example app to your space. 
+Create a new space, generate a new API key and follow the instructions in [Contentful space sync][installation-instructions] to copy the content types used in the example app to your space.
 
 [installation-instructions]: https://github.com/contentful-labs/contentful-space-syncs
